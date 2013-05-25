@@ -11,7 +11,7 @@ golang实现简易单点cdn
 
 目前还没有删除资源功能,只是抛砖引玉,需要的可以自己写(线上环境已经实现单点通信删除)
 
-压测没有问题!
+生产环境2W多并发,无压力!
 
 linux 64位编译下载 [Simple_cdn](https://raw.github.com/sun8911879/Simple_cdn/master/Simple_cdn_x86_64.tar.gz)
 
