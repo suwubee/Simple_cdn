@@ -1,7 +1,7 @@
 golang实现简易单点cdn
 ==========
 
-项目起因是upyun流量太大,无法承受,[魅族迷]一个页面近200个图片
+项目起因是upyun流量太大,无法承受,[魅族迷](http://www.meizumi.com)一个页面近200个图片
 
 线上环境用于[魅族迷](http://www.meizumi.com)
 
@@ -13,9 +13,11 @@ golang实现简易单点cdn
 
 压测没有问题!
 
+linux 64位编译下载 [Simple_cdn](https://raw.github.com/sun8911879/Simple_cdn/master/Simple_cdn_x86_64.tar.gz)
+
 注意
 ==========
-[魅族迷]之前压测出现大面积404
+[魅族迷](http://www.meizumi.com)之前压测出现大面积404
 
 原因是句柄被跑满(感谢 [ASTA谢](http://weibo.com/533452688)帮找出问题！)
 
@@ -27,7 +29,7 @@ open files 默认是1024(线上已经修改为20W)
 
 关于
 ==========
-本程序有golang开发
+本程序由golang开发
 
 如果你对golang感兴趣 
 
