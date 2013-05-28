@@ -15,6 +15,9 @@ golang实现简易单点cdn
 
 linux 64位编译下载 [Simple_cdn](https://raw.github.com/sun8911879/Simple_cdn/master/Simple_cdn_x86_64.tar.gz)
 
+![](images/connections.png?raw=true)
+
+![](images/easy_cdn.png?raw=true)
 注意
 ==========
 [魅族迷](http://www.meizumi.com)之前压测出现大面积404
