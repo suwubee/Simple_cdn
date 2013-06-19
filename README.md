@@ -45,5 +45,4 @@ open files 默认是1024(线上已经修改为20W)
 - [京东](http://book.jd.com/11224644.html)
 - [Amazon](http://www.amazon.cn/Go-Web%E7%BC%96%E7%A8%8B-%E8%B0%A2%E5%AD%9F%E5%86%9B/dp/B00CHWVAHQ/ref=sr_1_1?s=books&ie=UTF8&qid=1369323453&sr=1-1)
 
-本人不接受各种定制 请勿扰
 - by [雪虎](http://weibo.com/sun8911879)
